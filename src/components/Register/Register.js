@@ -10,7 +10,7 @@ const Register = () => {
                 <br />
                 <input type="password" />
                 <br />
-                <button type="submit" class="btn btn-primary">Submit</button>
+                <button type="submit" className="btn btn-primary">Submit</button>
             </form>
             <Link to='/login'>Already Registered?</Link>
 
